@@ -6,4 +6,7 @@ categories: asciicast
 ---
 
 {% asciicast 30059 %}
+
+<!--more-->
+
 {% gist ryrych/e95ba23a5f71c93cfda4 %}

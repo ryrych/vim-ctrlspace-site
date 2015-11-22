@@ -6,6 +6,9 @@ categories: asciicast
 ---
 
 {% asciicast 29529 %}
+
+<!--more-->
+
 {% gist ryrych/5e4ec3fb8ccad17e04d8 %}
 
 After adding the project to bookmarks, you choose the project from the list
