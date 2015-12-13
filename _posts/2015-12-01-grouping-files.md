@@ -5,7 +5,9 @@ date:   2015-12-01 21:30:27 +0100
 categories: asciicast
 ---
 
-{% asciicast 30059 %}
+<div class='asciicast-wrapper'>
+    {% asciicast 30059 %}
+</div>
 
 <!--more-->
 
