@@ -4,16 +4,27 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    min-height: 55px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
+.site-header h1 {
+    background: url("/img/logo-small.png") left no-repeat;
+    background-size: 40px;
+    display: block;
+    float: left;
+    font-weight: 300;
+    height: 100%;
+    margin: 0;
+    padding: 0 0 0 50px;
+}
+
 .site-title {
     font-size: 26px;
     font-weight: 300;
-    line-height: 56px;
+    line-height: 55px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -26,7 +37,7 @@
 
 .site-nav {
     float: right;
-    line-height: 56px;
+    line-height: 55px;
 
     .menu-icon {
         display: none;
