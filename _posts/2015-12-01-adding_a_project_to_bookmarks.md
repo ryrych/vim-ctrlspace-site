@@ -11,6 +11,11 @@ categories: asciicast
 
 <!--more-->
 
+*vim-ctrlspace* allows you to bookmark your projects. When you run
+*vim-ctrlspace* for the first time, the bookmark list is empty. It’s time to
+change that! Fasten your seatbelts and add your first project to bookmarks
+following the steps below!
+
 {% gist ryrych/5e4ec3fb8ccad17e04d8 %}
 
 After adding the project to bookmarks, you choose the project from the list
