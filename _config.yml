@@ -20,5 +20,3 @@ excerpt_separator: "<!-- more -->"
 
 # Build settings
 markdown: kramdown
-
-gems: [jekyll-asciinema]

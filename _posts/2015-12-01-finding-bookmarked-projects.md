@@ -6,7 +6,8 @@ categories: asciicast
 ---
 
 <div class='asciicast-wrapper'>
-    {% asciicast 30055 %}
+    <script type="text/javascript" src="https://asciinema.org/a/30055.js" id="asciicast-30055" async>
+    </script>
 </div>
 
 Once you [added your first project to bookmarks][1], every time you start

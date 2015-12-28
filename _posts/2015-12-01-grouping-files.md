@@ -6,7 +6,8 @@ categories: asciicast
 ---
 
 <div class='asciicast-wrapper'>
-    {% asciicast 30059 %}
+    <script type="text/javascript" src="https://asciinema.org/a/28701.js" id="asciicast-28701" async>
+    </script>
 </div>
 
 Grouping files is a secret weapon of *vim-ctrlspace* that allows you to work in
