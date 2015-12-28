@@ -10,6 +10,8 @@ categories: asciicast
     </script>
 </div>
 
+<!-- more -->
+
 Grouping files is a secret weapon of *vim-ctrlspace* that allows you to work in
 a way that **vanilla Vim doesn’t**. I’ll spare you tricky details about *Vim*
 buffers, tabs, and the like. Just **treat grouped files in tabs** as
@@ -21,7 +23,5 @@ You can even keep files from any projects or directory as you’re not limited b
 the project scope. This way a third tab, *Plans & goals* can be added. 
 
 Will **learning vim-ctrlspace** land in your **2016 Plan & goals** list?
-
-<!-- more -->
 
 {% gist ryrych/e95ba23a5f71c93cfda4 %}

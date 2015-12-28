@@ -10,11 +10,11 @@ categories: asciicast
     </script>
 </div>
 
+<!-- more -->
+
 Once you [added your first project to bookmarks][1], every time you start
 working on the project, after opening *Vim*, you have to select the project in
 *vim-ctrlspace*.  Fortunately it’s a walk in the park! See below how easy it is:
-
-<!-- more -->
 
 {% gist ryrych/c2d868449e4dcf18cdd1 %}
 
