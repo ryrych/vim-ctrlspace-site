@@ -6,7 +6,7 @@ categories: asciicast
 ---
 
 <div class='asciicast-wrapper'>
-    <script type="text/javascript" src="https://asciinema.org/a/28701.js" id="asciicast-28701" async>
+    <script type="text/javascript" src="https://asciinema.org/a/30059.js" id="asciicast-30059" async>
     </script>
 </div>
 
