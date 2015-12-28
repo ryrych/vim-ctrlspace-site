@@ -9,7 +9,7 @@ categories: asciicast
     {% asciicast 29529 %}
 </div>
 
-<!--more-->
+<!-- more -->
 
 *vim-ctrlspace* allows you to bookmark your projects. When you run
 *vim-ctrlspace* for the first time, the bookmark list is empty. It’s time to

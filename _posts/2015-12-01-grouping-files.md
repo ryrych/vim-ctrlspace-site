@@ -21,6 +21,6 @@ the project scope. This way a third tab, *Plans & goals* can be added.
 
 Will **learning vim-ctrlspace** land in your **2016 Plan & goals** list?
 
-<!--more-->
+<!-- more -->
 
 {% gist ryrych/e95ba23a5f71c93cfda4 %}
