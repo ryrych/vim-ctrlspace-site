@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-*vim-ctrlspace* is  your *Vim Space Controller* and comprehensive solution for
+*Vim-CtrlSpace* is  your *Vim Space Controller* and comprehensive solution for
 your Vim editor providing:
 
 * Tabs / buffers / files management
@@ -12,7 +12,7 @@ your Vim editor providing:
 * Workspaces (sessions)
 * Bookmarks for your favorite projects
 
-You can find more information on [vim-ctrlspace github repository][1]
+You can find more information on [Vim-CtrlSpace github repository][1]
 
 
 [1]: https://github.com/vim-ctrlspace/vim-ctrlspace
