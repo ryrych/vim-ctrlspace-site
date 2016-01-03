@@ -15,4 +15,4 @@ your Vim editor providing:
 You can find more information on [vim-ctrlspace github repository][1]
 
 
-[1]: https://github.com/szw/vim-ctrlspace
+[1]: https://github.com/vim-ctrlspace/vim-ctrlspace

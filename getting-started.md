@@ -81,6 +81,6 @@ Now you can [add your first project to bookmarks!][7]
 [2]: https://robots.thoughtbot.com/the-vim-learning-curve-is-a-myth
 [3]: https://github.com/VundleVim/Vundle.vim#quick-start
 [4]: https://github.com/ggreer/the_silver_searcher#linux
-[5]: https://github.com/szw/vim-ctrlspace#glob-command
+[5]: https://github.com/vim-ctrlspace/vim-ctrlspace#glob-command
 [6]: https://gist.github.com/ryrych/895bbabd3f6c40bf7d29#file-vim-ctrlspace-vimrc-L6
 [7]: http://ryrych.github.io/vim-ctrlspace-site/asciicast/2015/11/25/adding_a_project_to_bookmarks.html
