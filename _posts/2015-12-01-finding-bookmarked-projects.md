@@ -26,4 +26,4 @@ open the search mode with <kbd>/</kbd>.
 Opening projects in *Vim* has never been so easy!
 
 
-[1]: /2015/11/25/adding_a_project_to_bookmarks.html
+[1]: asciicast/2015/11/25/adding_a_project_to_bookmarks.html
