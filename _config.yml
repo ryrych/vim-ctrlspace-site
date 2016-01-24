@@ -19,4 +19,5 @@ github_username:  "vim-ctrlspace/vim-ctrlspace"
 excerpt_separator: "<!-- more -->"
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
