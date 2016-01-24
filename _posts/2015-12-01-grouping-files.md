@@ -24,4 +24,41 @@ the project scope. This way a third tab, *Plans & goals* can be added.
 
 Will **learning Vim-CtrlSpace** land in your **2016 Plan & goals** list?
 
-{% gist ryrych/e95ba23a5f71c93cfda4 %}
+```console
+$ vim
+
+# Open Ember project
+[CTRL]+[SPACE]
+[B]
+>ember<
+[Enter]
+
+# Search for `README.md` and open it in the current tab without closing the plugin window
+[O]
+>readme<
+[enter][space]
+
+# Open 3 files in a separate tab (note the `+3` indicator)
+[/]
+[CTRL]+[U]
+>computed<
+
+# Select each file with:
+[SHIFT]+[T]
+
+# Clear search term
+[/]
+[CTRL]+[U]
+[/]
+
+# Open list of tabs
+[l]
+
+# Give second tab custom label
+[j]
+[=]
+>Computed feature + spec<
+[Enter]
+[ESC]
+[qa]
+```

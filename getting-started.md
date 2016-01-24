@@ -54,7 +54,40 @@ To not mess up your original config, plugins will be installed in
 
 Copy the content and store it somewhere.
 
-<script src="https://gist.github.com/ryrych/895bbabd3f6c40bf7d29.js"></script>
+```vim
+set nocompatible
+filetype off
+
+set rtp+=~/.vim/bundle/Vundle.vim
+" Change path if necessary
+call vundle#begin('~/vim-ctrlspace-learning')
+
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'szw/vim-ctrlspace'
+Plugin 'NLKNguyen/papercolor-theme'
+
+call vundle#end()
+filetype plugin indent on
+
+set t_Co=256
+set background=dark
+colorscheme PaperColor
+
+set nocompatible
+set hidden
+set wildignore=.git,.svn,CVS,*.o,*.a,*.class,*.mo,*.la,*.so,*.obj,*.swp,*.jpg,*.png,*.xpm,*.gif,*.pyc,tags,*.tags
+
+if has("gui_running")
+  " Settings for MacVim and Inconsolata font
+  let g:CtrlSpaceSymbols = { "File": "◯", "CTab": "▣", "Tabs": "▢" }
+endif
+
+if executable("ag")
+    let g:CtrlSpaceGlobCommand = 'ag -l --nocolor -g ""'
+endif
+
+let g:CtrlSpaceIgnoredFiles = '\v(tmp|temp|Godeps)[\/]'
+```
 
 ### Install Vim-CtrlSpace and plugins
 

@@ -16,7 +16,11 @@ Once you [added your first project to bookmarks][1], every time you start
 working on the project, after opening *Vim*, you have to select the project in
 *Vim-CtrlSpace*.  Fortunately it’s a walk in the park! See below how easy it is:
 
-{% gist ryrych/c2d868449e4dcf18cdd1 %}
+```console
+$ vim
+[CTRL]+[C]
+[B]
+```
 
 Capital <kbd>B</kbd> **opens the project list in a search mode** so you can start
 typing your search term.
