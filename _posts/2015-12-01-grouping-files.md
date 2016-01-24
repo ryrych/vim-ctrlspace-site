@@ -24,41 +24,28 @@ the project scope. This way a third tab, *Plans & goals* can be added.
 
 Will **learning Vim-CtrlSpace** land in your **2016 Plan & goals** list?
 
-```console
-$ vim
+Opening project
 
-# Open Ember project
-[CTRL]+[SPACE]
-[B]
->ember<
-[Enter]
+1. <kbd>CTRL</kbd> + <kbd>SPACE</kbd>
+2. <kbd>B</kbd>
+3. Enter project name `>ember<`
+4. Confirm with <kbd>Enter</kbd>
 
-# Search for `README.md` and open it in the current tab without closing the plugin window
-[O]
->readme<
-[enter][space]
+Finding file and opening it in the first tab
 
-# Open 3 files in a separate tab (note the `+3` indicator)
-[/]
-[CTRL]+[U]
->computed<
+1. <kbd>O</kbd>
+2. Enter file name `>readme<` and confirm with <kbd>Enter</kbd>
+3. Press <kbd>space</kbd> to add the file to the tab without closing the plugin window
 
-# Select each file with:
-[SHIFT]+[T]
+Opening another 3 files in a separate tab
 
-# Clear search term
-[/]
-[CTRL]+[U]
-[/]
+1. Open search mode with <kbd>/</kbd>
+2. Press <kbd>CTRL</kbd> + <kbd>U</kbd> to clear the previous search term
+3. Type `>computed<` to find new files
+4. Open each found file with <kbd>Shift</kbd> + <kbd>T</kbd>
 
-# Open list of tabs
-[l]
+Adding a custom tab label
 
-# Give second tab custom label
-[j]
-[=]
->Computed feature + spec<
-[Enter]
-[ESC]
-[qa]
-```
+1. Press <kbd>Backspace</kbd> to exit search mode
+2. Press <kbd>l</kbd> to open a list of tabs
+3. Press <kbd>=</kbd> to change the default label

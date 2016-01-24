@@ -14,18 +14,17 @@ categories: asciicast
 
 Once you [added your first project to bookmarks][1], every time you start
 working on the project, after opening *Vim*, you have to select the project in
-*Vim-CtrlSpace*.  Fortunately it’s a walk in the park! See below how easy it is:
+*Vim-CtrlSpace*. Fortunately all you have to do is **pressing**:
 
-```console
-$ vim
-[CTRL]+[C]
-[B]
-```
+<kbd>CTRL</kbd>+<kbd>SPACE</kbd> and then <kbd>b</kbd>.
 
-Capital <kbd>B</kbd> **opens the project list in a search mode** so you can start
-typing your search term.
+## Opening projects in search mode
+
+Capital <kbd>B</kbd> **opens the project list in the search mode** so you can
+find the project faster.
+
 Alternatively you can open the list of projects with <kbd>b</kbd> and then
-open the search mode with <kbd>/</kbd>.
+open the search mode with <kbd>/</kbd>. The same applies for all lists.
 
 Opening projects in *Vim* has never been so easy!
 
