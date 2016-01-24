@@ -17,7 +17,14 @@ categories: asciicast
 change that! Fasten your seatbelts and add your first project to bookmarks
 following the steps below!
 
-{% gist ryrych/5e4ec3fb8ccad17e04d8 %}
+```console
+$ vim
+<kbd>CTRL</kbd>+<kbd>C</kbd>
+<kbd>b</kbd>
+<kbd>a</kbd>
+⌗ Add directory to bookmarks: /Users/ryrych/projects/ember_awesome/<kbd>Enter</kbd>
+⌗ New bookmark name: Ember is Awesome Bookmark<kbd>Enter</kbd>
+```
 
 After adding the project to bookmarks, you choose the project from the list
 using <kbd>j</kbd> and <kbd>k</kbd> keys. Press <kbd>Enter</kbd> to confirm.
