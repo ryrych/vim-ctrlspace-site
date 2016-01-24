@@ -112,3 +112,21 @@ code {
 .highlight .vg{color:#dcdccc}
 .highlight .vi{color:#ffffc7}
 .highlight .il{color:#8cd0d3}
+
+kbd {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 11px;
+  line-height: 1.4;
+  display: inline-block;
+  margin: 0 .1em;
+  padding: .1em .6em;
+  white-space: nowrap;
+  color: #333;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background-color: #f7f7f7;
+  -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.2),0 0 0 2px #fff inset;
+  -moz-box-shadow: 0 1px 0 rgba(0,0,0,.2),0 0 0 2px #fff inset;
+  box-shadow: 0 1px 0 rgba(0,0,0,.2),0 0 0 2px #fff inset;
+  text-shadow: 0 1px 0 #fff;
+}
