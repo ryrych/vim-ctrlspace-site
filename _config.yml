@@ -8,9 +8,9 @@ description: >
 baseurl: ""
 url: "https://vim-ctrlspace.github.io/"
 twitter_username: "VimCtrlSpace"
-github_username:  "vim-ctrlspace/vim-ctrlspace"
+github_username: "vim-ctrlspace/vim-ctrlspace"
 excerpt_separator: "<!-- more -->"
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
